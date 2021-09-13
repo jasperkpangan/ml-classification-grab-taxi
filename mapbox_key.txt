@@ -1,0 +1,1 @@
+https://api.mapbox.com/styles/v1/jasperkpangan/ckbd80vxa0qs41io8vke3jen7/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiamFzcGVya3BhbmdhbiIsImEiOiJja2Q5eTZkYmkxNHB0Mnl0Z2M1NHBibmw0In0.xoGb3WLaKIQrCiJYx47GYw
